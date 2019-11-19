@@ -1,0 +1,6 @@
+---
+applications:
+- name: cicd-jenkins-example
+instances: 1
+memory: 800m
+path: target/spring-boot-starter-parent-1.4.2.RELEASE.jar
