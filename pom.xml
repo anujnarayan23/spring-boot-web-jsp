@@ -70,6 +70,11 @@
 			<version>3.3.7</version>
 		</dependency>
 
+<dependency>
+			<groupId>com.googlecode.junit-toolbox</groupId>
+			<artifactId>junit-toolbox</artifactId>
+			<version>4.12</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
